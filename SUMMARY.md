@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome To](README.md)
+* [👋 Welcome To Eternal OS Wiki!](README.md)
 
 ## Overview
 
