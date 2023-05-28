@@ -2,7 +2,7 @@
 
 * [👋 Welcome To Eternal OS Wiki!](README.md)
 
-## Overview
+## 🌟 Overview
 
 * [💡 What we do at Eternal OS](overview/what-we-do-at-eternal-os.md)
 * [✨ Features](overview/features.md)
@@ -13,11 +13,10 @@
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-## Fundamentals
+## ⚙ Builds & Related Guides
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Setting Up Environments](builds-and-related-guides/setting-up-environments/README.md)
+  * [📝 Setting permissions](builds-and-related-guides/setting-up-environments/setting-permissions.md)
 
 ## Use Cases
 
