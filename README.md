@@ -42,10 +42,10 @@ We've put together some helpful guides for you to get setup with our product qui
 [getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="builds-and-related-guides/setting-up-environments/creating-your-first-build.md" %}
-[creating-your-first-build.md](builds-and-related-guides/setting-up-environments/creating-your-first-build.md)
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="overview/faq.md" %}
+[faq.md](overview/faq.md)
 {% endcontent-ref %}

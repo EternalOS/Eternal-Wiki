@@ -16,4 +16,4 @@
 ## ⚙ Builds & Related Guides
 
 * [🛠 Setting Up Environments](fundamentals/getting-set-up/README.md)
-  * [🔧 Creating Your First Build!](builds-and-related-guides/setting-up-environments/creating-your-first-build.md)
+  * [🔧 Creating Your First Build!](fundamentals/getting-set-up/setting-permissions.md)
