@@ -22,12 +22,12 @@ For the more adventurous users, we also provide guides on creating the first uno
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/what-we-do-at-eternal-os.md" %}
+[what-we-do-at-eternal-os.md](overview/what-we-do-at-eternal-os.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/features.md" %}
+[features.md](overview/features.md)
 {% endcontent-ref %}
 
 ## Get Started

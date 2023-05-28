@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What we do at Eternal OS](overview/what-we-do-at-eternal-os.md)
+* [✨ Features](overview/features.md)
 
 ## Product Guides
 
