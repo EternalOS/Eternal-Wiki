@@ -20,6 +20,10 @@ If you're passionate about Eternal OS and want to contribute to its development,
 
 For the more adventurous users, we also provide guides on creating the first unofficial build of Eternal OS. Whether you're a developer or an enthusiast eager to explore the possibilities, these guides will walk you through the process of building and customizing Eternal OS according to your preferences. Join the vibrant community of developers and contributors, and unleash the full potential of Eternal OS by creating your own unique builds.
 
+## What is Eternal OS?
+
+Eternal OS is a custom ROM based on the Android Open Source Project (AOSP) that prioritizes security, battery optimization, performance, and feature enhancements, providing users with a powerful and customizable experience for their Android devices.
+
 ## Quick links
 
 {% content-ref url="overview/what-we-do-at-eternal-os.md" %}

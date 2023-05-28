@@ -6,6 +6,7 @@
 
 * [💡 What we do at Eternal OS](overview/what-we-do-at-eternal-os.md)
 * [✨ Features](overview/features.md)
+* [❓ FAQ](overview/faq.md)
 
 ## Product Guides
 
