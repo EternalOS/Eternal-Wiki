@@ -38,12 +38,12 @@ Eternal OS is a custom ROM based on the Android Open Source Project (AOSP) that 
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="builds-and-related-guides/setting-up-environments/" %}
-[setting-up-environments](builds-and-related-guides/setting-up-environments/)
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="builds-and-related-guides/setting-up-environments/setting-permissions.md" %}
-[setting-permissions.md](builds-and-related-guides/setting-up-environments/setting-permissions.md)
+{% content-ref url="builds-and-related-guides/setting-up-environments/creating-your-first-build.md" %}
+[creating-your-first-build.md](builds-and-related-guides/setting-up-environments/creating-your-first-build.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

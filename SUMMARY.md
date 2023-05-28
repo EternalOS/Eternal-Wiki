@@ -15,10 +15,5 @@
 
 ## ⚙ Builds & Related Guides
 
-* [🛠 Setting Up Environments](builds-and-related-guides/setting-up-environments/README.md)
-  * [📝 Setting permissions](builds-and-related-guides/setting-up-environments/setting-permissions.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🛠 Setting Up Environments](fundamentals/getting-set-up/README.md)
+  * [🔧 Creating Your First Build!](builds-and-related-guides/setting-up-environments/creating-your-first-build.md)
