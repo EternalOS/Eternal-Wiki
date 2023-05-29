@@ -17,3 +17,5 @@
 
 * [🛠 Setting Up Environments](fundamentals/getting-set-up/README.md)
   * [🔧 Creating Your First Build!](fundamentals/getting-set-up/setting-permissions.md)
+  * [📲 Flashing Your Freshly Baked ROM to your device!](builds-and-related-guides/setting-up-environments/flashing-your-freshly-baked-rom-to-your-device.md)
+  * [❌ Common Errors](builds-and-related-guides/setting-up-environments/common-errors.md)

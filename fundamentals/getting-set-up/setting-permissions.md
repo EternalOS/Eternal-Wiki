@@ -73,3 +73,9 @@ lastly,
 ```
 
 ## Voila! That was your first build to continue check the button below ⬇️
+
+## For Errors
+
+{% hint style="info" %}
+Check Out the Common Errors Page in `Setting Up Environments p` page in `BUILDS & RELATED GUIDES` section of the wiki or Search for Common Errors in the above searchbar.
+{% endhint %}
